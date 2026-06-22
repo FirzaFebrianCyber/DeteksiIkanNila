@@ -1,0 +1,15 @@
+names:
+- Bacterial Aeromonas Disease
+- Healthy Fish
+- Streptococcus
+- TILV
+nc: 4
+roboflow:
+  license: CC BY 4.0
+  project: tilapia-skin-disease-e3eov
+  url: https://universe.roboflow.com/inchang/tilapia-skin-disease-e3eov/dataset/4
+  version: 4
+  workspace: inchang
+test: ../test/images
+train: ../train/images
+val: ../valid/images
